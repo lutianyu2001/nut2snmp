@@ -87,9 +87,10 @@ snmpwalk -v2c -c <community> localhost .1.3.6.1.2.1.33
 
 Tested on:
 
-- Entware aarch64-k3.10 (Asuswrt-Merlin 3004.388.8_4_rog of ROG Rapture GT-AX11000 Pro)
-- Network UPS Tools upsd 2.8.1
-- NET-SNMP 5.9.4.pre2
+- Server: Entware aarch64-k3.10 (Asuswrt-Merlin 3004.388.8_4_rog of ROG Rapture GT-AX11000 Pro)
+  - Network UPS Tools upsd 2.8.1
+  - NET-SNMP 5.9.4.pre2
+- Client: Synology DSM 7.2.2-72806 Update 4
 
 ## License
 
